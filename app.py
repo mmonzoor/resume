@@ -2,11 +2,11 @@ import streamlit as st
 import content
 
 st.sidebar.title("Navigation")
-selection = st.sidebar.radio("Go to", ["Home", "About", "Experience", "Projects", "Skills", "Hobbies", "Contact"])
+selection = st.sidebar.radio("Go to", ["Resume", "About", "Experience", "Projects", "Skills", "Hobbies", "Contact"])
 
 
 with st.spinner(f"Loading {selection} ..."):
-    if selection == "Home":
+    if selection == "Resume":
         content.about_content()
         content.experience()
         content.contact()

@@ -4,14 +4,14 @@ def about_content():
     st.title("Mumtahin (Tahin) Monzoor | She/Her")
 
     st.markdown("""I am a Data Scientist with over 
-    4 years of experience fraud and data with the ability to lead projects 
+    4 years of experience in fraud and data with the ability to lead projects 
     from both a technical and business capacity.  As a **Sr. Data 
     Scientist** at Interac, I have prevented over **$10 million**
     dollars in Fraud losses and saved hundreds of hours in operational time.
     Aside from working full time, I have also been pursuing a Masters degree 
-    at University of Pennsylvania.""") 
+    at the University of Pennsylvania.""") 
     
-    st.write(""" *As I complete the last semester of my 
+    st.write(""" *As I complete my 
     masters degree in Computer Science, I want to utilize the knowledge 
     I have gained in this program and take part in projects 
     more geared towards* **software enginnering.**""")

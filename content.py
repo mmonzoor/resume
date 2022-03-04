@@ -26,7 +26,7 @@ def experience():
     - **Identity Fraud**: Led the strategic initiative to stop networks of bad actors spinning up 
     fraudulent accounts at Stripe and contributing to millions in losses.
     - **Distributed Fraud pattern**: Launched improved fraud interventions in markets with increased level of contribution towards
-    distribted fraud attacks which has decreased good user pain by **30%** and increased loss savings by **$2 million**.""")
+    distributed fraud attacks which has decreased good user pain by **30%** and increased loss savings by **$2 million**.""")
 
     #https://practical-davinci-2538f5.netlify.app/
     st.subheader("Founder | Unipod | 2020/03 - 2021/08")
@@ -45,7 +45,7 @@ def experience():
     - **Trust Network**: Modelled trusted networks of legitimate users to reduce false positives and increase 
     alerting accuracy which removed **2000 false alerts/ month**, saving 120 hours of front-line Analyst time.
     - **Data Governance**: Vetted data sources from financial institutions, third-party vendors, and in-house applications 
-    to ensure data integrity. Automated detections of re-occurring data quality issues.""")
+    to ensure data integrity. Automated detections of reccurring data quality issues.""")
 
     st.subheader("Data Scientist | University of Waterloo - [Netlabs](https://uwaterloo.ca/networks-lab/): 2017/09 - 2018/04")
     st.markdown("""
